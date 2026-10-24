@@ -1,0 +1,4 @@
+--- Testing Defensive Validation Guards ---
+Attempting to create a car with invalid empty brand...
+Caught Expected Invariant Exception: Brand cannot be null or empty.
+PS C:\Users\Dell\oop_assignments\week1_Umm-e-Aiman_176> 

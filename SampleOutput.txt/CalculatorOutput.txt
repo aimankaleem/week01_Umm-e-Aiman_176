@@ -1,0 +1,5 @@
+[5] Exponentiation Tests:
+Normal Case (2^5): 32.0
+Edge Case (Base raised to 0: 99^0): 1.0
+Edge Case (Negative exponent: 2^-3): 0.125
+PS C:\Users\Dell\oop_assignments\week1_Umm-e-Aiman_176> 
